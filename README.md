@@ -1,5 +1,8 @@
 # ALTCHA Server Demo for PHP
 
+> [!WARNING]
+> DEPRECATED: This repository is no longer maintained. Please refer to [`altcha-lib-php`](https://github.com/altcha-org/altcha-lib-php) for the current implementation and examples.
+
 This repository demonstrates the implementation of an ALTCHA server with spam filtering using the [altcha-lib-php](https://github.com/altcha-org/altcha-lib-php) library. The server provides endpoints for fetching challenges and submitting form data, including verification of Proof-of-Work (PoW) solutions and spam filtering.
 
 ## Documentation
